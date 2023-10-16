@@ -55,7 +55,8 @@ The project follows a structured approach:
 2. **Clustering**: KMeans clustering is used to group customers into distinct segments based on their features.
 3. **Dimensionality Reduction**: PCA (Principal Component Analysis) is employed to visualize the multi-dimensional data in a 2D space.
 4. **Analysis & Interpretation**: Each cluster is deeply analyzed to derive characteristics, and actionable insights are provided for businesses.
-![Unknown-2](https://github.com/iamirrf/creditscoring/assets/112046597/f90d8738-bb6b-425a-8247-048b0c48c50c)
+![Unknown](https://github.com/iamirrf/creditscoring/assets/112046597/58cec000-d2ee-4b97-aa2b-d1f9f4920827)
+
 
 ## Results
 
