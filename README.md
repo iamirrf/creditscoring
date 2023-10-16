@@ -55,6 +55,7 @@ The project follows a structured approach:
 2. **Clustering**: KMeans clustering is used to group customers into distinct segments based on their features.
 3. **Dimensionality Reduction**: PCA (Principal Component Analysis) is employed to visualize the multi-dimensional data in a 2D space.
 4. **Analysis & Interpretation**: Each cluster is deeply analyzed to derive characteristics, and actionable insights are provided for businesses.
+![Unknown-2](https://github.com/iamirrf/creditscoring/assets/112046597/f90d8738-bb6b-425a-8247-048b0c48c50c)
 
 ## Results
 
@@ -63,6 +64,7 @@ The customer base is segmented into three distinct clusters:
 - **Cluster 0**: Customers requiring attention and potential retention strategies.
 - **Cluster 1**: Loyal customers that can benefit from loyalty programs or exclusive offers.
 - **Cluster 2**: New/exploratory customers that can be targeted with introductory promotions or onboarding programs.
+![Unknown-2](https://github.com/iamirrf/creditscoring/assets/112046597/da4ad496-e29e-4905-8b4c-5564c152583d)
 
 For a more detailed analysis and interpretation, refer to the project's main report.
 
